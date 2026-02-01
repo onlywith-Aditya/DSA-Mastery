@@ -6,9 +6,9 @@ A comprehensive collection of Data Structures and Algorithms implementations acr
 
 | Language | Concepts Covered | Problems Solved | Progress |
 |----------|-----------------|-----------------|----------|
-| **Python** | 8/15 | 0/200 | 25% |
-| **C** | 6/12 | 0/150 | 20% |
-| **Overall** | 19/37 | 0/530 | 22% |
+| **Python** | 8/15 | 2/200 | 25% |
+| **C** | 6/12 | 2/150 | 20% |
+| **Overall** | 19/37 | 4/530 | 22% |
 
 ## 📁 Repository Structure
 dsa/
