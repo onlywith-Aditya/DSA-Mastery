@@ -10,27 +10,6 @@ A comprehensive collection of Data Structures and Algorithms implementations acr
 | **C** | 6/12 | 2/150 | 20% |
 | **Overall** | 19/37 | 4/530 | 22% |
 
-## 📁 Repository Structure
-dsa/
-├── 📘 python/ # Python implementations
-│ ├── arrays/ # Array problems & solutions
-│ ├── strings/ # String manipulation
-│ ├── linked_list/ # Linked list implementations
-│ ├── trees/ # Binary trees, BST, AVL
-│ ├── sorting/ # Sorting algorithms
-│ └── searching/ # Searching algorithms
-│
-├── ⚙️ c/ # C implementations
-│ ├── arrays/ # C arrays & pointers
-│ ├── pointers/ # Pointer arithmetic
-│ ├── strings/ # C string functions
-│ ├── linked_list/ # Linked lists in C
-│ ├── structures/ # Structs and unions
-│
-│
-└── 📚 README.md # This file
-
-
 
 ## 🎯 Learning Path
 
