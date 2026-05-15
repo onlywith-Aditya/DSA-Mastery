@@ -1,0 +1,15 @@
+>> 2-Pointer Technique
+        -> Array & Linked List.
+        -> Sorted Data.
+        -> Merge.
+        -> Remove Duplicate.
+        -> Rearrange.
+        -> Do not use extra space.
+        -> Detect Cycle(Linked List).
+        -> Pair/Triplets/Quadrupts Find.
+    |---------------------------------------|
+
+    1. Two Sum.-> O(n  log n)
+        * Don't use sorting if we have to identify index.
+        
+

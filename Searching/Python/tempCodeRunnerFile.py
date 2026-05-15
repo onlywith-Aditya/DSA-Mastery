@@ -1,1 +1,0 @@
-self.found_index = -1

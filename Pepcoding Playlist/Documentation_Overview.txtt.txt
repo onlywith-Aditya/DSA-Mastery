@@ -1,0 +1,37 @@
+|-> 30 Lectures
+|
+|------> Basic(10 Lectures)
+|
+|------> Recursion(7 Lectures)
+|
+|------> Basic Data Structure(8 Lectures)
+|
+|------> Advance Data Structure(5 Lectures)
+|
+|--------------------------------------------|
+1-> Overview
+2-> Print
+3-> Z Shape Question
+4-> Z Shape Solution 
+5-> Varibles
+6-> Conditional Statements
+7-> Conditional Question
+8-> Conditional Solution
+9-> Loop
+10-> Take Input **
+
+11, 12-> Is Prime Question ** 
+        -> Optimization
+        * Factor's cannot be greater than Root'n'.
+        * Condition only till Root'n' not 'n'.
+        * Break loop if one got divided.
+
+13, 14-> Print all Prime till 'n'. {Range-> Low<->High}.**
+
+15, 16-> Fibonacci Series
+
+17, 18-> Count digit of a number.
+
+19, 20-> Print digit of a  number.
+
+21,22-> Reverse a number.
