@@ -54,6 +54,7 @@ python array_rotation.py
 | [0033-search-in-rotated-sorted-array](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,6 +63,7 @@ python array_rotation.py
 | [0278-first-bad-version](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0875-koko-eating-bananas) |
 ## Interactive
 |  |
 | ------- |
