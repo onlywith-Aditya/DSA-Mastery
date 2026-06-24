@@ -45,3 +45,15 @@ A comprehensive collection of Data Structures and Algorithms implementations acr
 ```bash
 cd dsa/python/arrays
 python array_rotation.py
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0704-binary-search) |
+<!---LeetCode Topics End-->
