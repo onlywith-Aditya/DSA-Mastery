@@ -35,3 +35,7 @@
 19, 20-> Print digit of a  number.
 
 21,22-> Reverse a number.
+
+23,24-> Inverse a number.
+
+25,26-> Rotate a number.
