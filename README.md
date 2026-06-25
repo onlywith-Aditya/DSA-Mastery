@@ -56,6 +56,7 @@ python array_rotation.py
 | [0704-binary-search](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0875-koko-eating-bananas) |
+| [1552-magnetic-force-between-two-balls](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/1552-magnetic-force-between-two-balls) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
@@ -67,6 +68,7 @@ python array_rotation.py
 | [0704-binary-search](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0875-koko-eating-bananas) |
+| [1552-magnetic-force-between-two-balls](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/1552-magnetic-force-between-two-balls) |
 ## Interactive
 |  |
 | ------- |
@@ -99,4 +101,8 @@ python array_rotation.py
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Sorting
+|  |
+| ------- |
+| [1552-magnetic-force-between-two-balls](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/1552-magnetic-force-between-two-balls) |
 <!---LeetCode Topics End-->
