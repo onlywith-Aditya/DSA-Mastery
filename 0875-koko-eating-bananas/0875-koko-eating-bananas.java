@@ -24,10 +24,10 @@ class Solution {
     }
     
     private boolean canEatAll(int[] piles, int h, int speed) {
-        int hours = 0;
+        int hours = 0;                    
         for (int pile : piles) {
             // Ceiling division: (pile + speed - 1) / speed
-            hours += (pile + speed - 1) / speed;
+                                                           hours += (pile + speed - 1) / speed;
             
             // Early exit: if hours exceed h, return false
             if (hours > h) {
