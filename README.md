@@ -57,6 +57,7 @@ python array_rotation.py
 | [0852-peak-index-in-a-mountain-array](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0875-koko-eating-bananas) |
 | [1552-magnetic-force-between-two-balls](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/1552-magnetic-force-between-two-balls) |
+| [3620-network-recovery-pathways](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
@@ -69,6 +70,7 @@ python array_rotation.py
 | [0852-peak-index-in-a-mountain-array](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0875-koko-eating-bananas) |
 | [1552-magnetic-force-between-two-balls](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/1552-magnetic-force-between-two-balls) |
+| [3620-network-recovery-pathways](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3620-network-recovery-pathways) |
 ## Interactive
 |  |
 | ------- |
@@ -105,4 +107,24 @@ python array_rotation.py
 |  |
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/1552-magnetic-force-between-two-balls) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3620-network-recovery-pathways) |
+## Graph Theory
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3620-network-recovery-pathways) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3620-network-recovery-pathways) |
+## Shortest Path
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
