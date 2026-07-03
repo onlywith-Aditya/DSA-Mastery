@@ -11,33 +11,60 @@ class Solution {
                 // }
                 // return false;
 
-        // 2nd Way
+        // 2nd Way-> 	O(m + log n) | O(1)
 
-         int m = matrix.length;
+                // int m = matrix.length;
+                // int n = matrix[0].length;
+                
+                // // Step 1: Find the correct row
+                // int row = -1;
+                // for (int i = 0; i < m; i++) {
+                //     if (target >= matrix[i][0] && target <= matrix[i][n - 1]) {
+                //         row = i;
+                //         break;
+                //     }
+                // }
+                
+                // // If no row found, target doesn't exist
+                // if (row == -1) return false;
+                
+                // // Step 2: Binary search in the row
+                // int left = 0;
+                // int right = n - 1;
+                
+                // while (left <= right) {
+                //     int mid = left + (right - left) / 2;
+                    
+                //     if (matrix[row][mid] == target) {
+                //         return true;
+                //     } else if (matrix[row][mid] < target) {
+                //         left = mid + 1;
+                //     } else {
+                //         right = mid - 1;
+                //     }
+                // }
+                
+                // return false;
+
+        // 3rd Way
+        int m = matrix.length;
         int n = matrix[0].length;
-        
-        // Step 1: Find the correct row
-        int row = -1;
-        for (int i = 0; i < m; i++) {
-            if (target >= matrix[i][0] && target <= matrix[i][n - 1]) {
-                row = i;
-                break;
-            }
-        }
-        
-        // If no row found, target doesn't exist
-        if (row == -1) return false;
-        
-        // Step 2: Binary search in the row
+
         int left = 0;
-        int right = n - 1;
-        
+        int right = m * n - 1;
+
         while (left <= right) {
             int mid = left + (right - left) / 2;
             
-            if (matrix[row][mid] == target) {
+            // Convert 1D index to 2D coordinates
+            int row = mid / n;
+            int col = mid % n;
+            
+            int value = matrix[row][col];
+            
+            if (value == target) {
                 return true;
-            } else if (matrix[row][mid] < target) {
+            } else if (value < target) {
                 left = mid + 1;
             } else {
                 right = mid - 1;
@@ -45,8 +72,6 @@ class Solution {
         }
         
         return false;
-
-
 
     }
 }
