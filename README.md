@@ -92,6 +92,7 @@ python array_rotation.py
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0767-reorganize-string) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -112,6 +113,7 @@ python array_rotation.py
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0767-reorganize-string) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -123,6 +125,7 @@ python array_rotation.py
 | [0215-kth-largest-element-in-an-array](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0767-reorganize-string](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0767-reorganize-string) |
 | [1288-remove-covered-intervals](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/1288-remove-covered-intervals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/1552-magnetic-force-between-two-balls) |
 ## Dynamic Programming
@@ -144,6 +147,7 @@ python array_rotation.py
 | [0215-kth-largest-element-in-an-array](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0767-reorganize-string](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0767-reorganize-string) |
 | [3620-network-recovery-pathways](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -176,4 +180,12 @@ python array_rotation.py
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0347-top-k-frequent-elements) |
+## String
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0767-reorganize-string) |
+## Greedy
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
