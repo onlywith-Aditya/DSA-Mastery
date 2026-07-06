@@ -61,6 +61,7 @@ python array_rotation.py
 | [0704-binary-search](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0875-koko-eating-bananas) |
+| [1288-remove-covered-intervals](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/1288-remove-covered-intervals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/1552-magnetic-force-between-two-balls) |
 | [3620-network-recovery-pathways](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -122,6 +123,7 @@ python array_rotation.py
 | [0215-kth-largest-element-in-an-array](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1288-remove-covered-intervals](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/1288-remove-covered-intervals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/1552-magnetic-force-between-two-balls) |
 ## Dynamic Programming
 |  |
