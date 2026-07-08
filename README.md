@@ -88,6 +88,7 @@ python array_rotation.py
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0009-palindrome-number) |
 | [0367-valid-perfect-square](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0509-fibonacci-number) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
