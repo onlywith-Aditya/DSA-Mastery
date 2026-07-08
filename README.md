@@ -194,6 +194,7 @@ python array_rotation.py
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0125-valid-palindrome) |
 | [0767-reorganize-string](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0767-reorganize-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
@@ -213,4 +214,8 @@ python array_rotation.py
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
