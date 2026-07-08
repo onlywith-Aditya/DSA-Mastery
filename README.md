@@ -89,6 +89,7 @@ python array_rotation.py
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0509-fibonacci-number) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -218,4 +219,12 @@ python array_rotation.py
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0125-valid-palindrome) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
