@@ -1,0 +1,18 @@
+class Solution {
+    public int addDigits(int num) {
+        
+        if(num < 10){
+            return num;
+        }
+
+        //  Sum all digit.
+        int sum  = 0;
+        while(num>0){ // +ve Number.
+            sum = sum + num % 10;
+            num /= 10;
+        }
+        return addDigits(sum);
+
+
+    }
+}
