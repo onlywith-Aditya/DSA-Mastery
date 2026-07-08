@@ -89,6 +89,7 @@ python array_rotation.py
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0367-valid-perfect-square) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +123,7 @@ python array_rotation.py
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -190,6 +192,7 @@ python array_rotation.py
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0767-reorganize-string) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
 |  |
 | ------- |
