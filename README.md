@@ -140,6 +140,7 @@ python array_rotation.py
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0509-fibonacci-number) |
 | [3620-network-recovery-pathways](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -195,6 +196,7 @@ python array_rotation.py
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0125-valid-palindrome) |
 | [0767-reorganize-string](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0767-reorganize-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -227,4 +229,8 @@ python array_rotation.py
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0258-add-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
