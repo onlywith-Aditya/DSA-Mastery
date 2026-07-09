@@ -56,11 +56,21 @@ class Solution {
             }
             
         result.add(currentLevel);
-        leftToRight  =  !leftToRight;
+        leftToRight  =  !leftToRight;   // Change conditio  every time.
         }
     return result;
 
-
+        // // Reverse odd levels
+        // for (int i = 1; i < result.size(); i += 2) {
+        //     Collections.reverse(result.get(i));
+        // }
 
     }
 }
+
+
+//      3
+//    /   \
+//   9     20
+//       /    \
+//      15     7
