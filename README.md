@@ -64,6 +64,7 @@ python array_rotation.py
 | [0875-koko-eating-bananas](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0875-koko-eating-bananas) |
 | [1288-remove-covered-intervals](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/1288-remove-covered-intervals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/1552-magnetic-force-between-two-balls) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
@@ -80,6 +81,7 @@ python array_rotation.py
 | [0852-peak-index-in-a-mountain-array](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0875-koko-eating-bananas) |
 | [1552-magnetic-force-between-two-balls](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/1552-magnetic-force-between-two-balls) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3620-network-recovery-pathways) |
 ## Interactive
 |  |
@@ -99,6 +101,7 @@ python array_rotation.py
 | [0017-letter-combinations-of-a-phone-number](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0347-top-k-frequent-elements](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0767-reorganize-string) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -148,6 +151,7 @@ python array_rotation.py
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -185,6 +189,7 @@ python array_rotation.py
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Quickselect
 |  |
 | ------- |
