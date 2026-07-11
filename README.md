@@ -152,6 +152,7 @@ python array_rotation.py
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -185,6 +186,7 @@ python array_rotation.py
 | [0101-symmetric-tree](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0226-invert-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -194,10 +196,12 @@ python array_rotation.py
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0226-invert-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Quickselect
 |  |
