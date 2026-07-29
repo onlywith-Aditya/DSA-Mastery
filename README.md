@@ -55,6 +55,7 @@ python array_rotation.py
 | [0035-search-insert-position](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0074-search-a-2d-matrix) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0347-top-k-frequent-elements) |
@@ -100,6 +101,7 @@ python array_rotation.py
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0347-top-k-frequent-elements) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0767-reorganize-string](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0767-reorganize-string) |
@@ -109,6 +111,7 @@ python array_rotation.py
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0347-top-k-frequent-elements) |
@@ -266,6 +269,7 @@ python array_rotation.py
 | [0101-symmetric-tree](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
@@ -275,6 +279,7 @@ python array_rotation.py
 | [0101-symmetric-tree](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
