@@ -65,6 +65,7 @@ python array_rotation.py
 | [0733-flood-fill](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0733-flood-fill) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0994-rotting-oranges) |
 | [1288-remove-covered-intervals](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/1288-remove-covered-intervals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/1552-magnetic-force-between-two-balls) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -185,6 +186,7 @@ python array_rotation.py
 | [0240-search-a-2d-matrix-ii](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0994-rotting-oranges) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -205,6 +207,7 @@ python array_rotation.py
 | [0226-invert-binary-tree](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
