@@ -157,6 +157,7 @@ python array_rotation.py
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -195,6 +196,7 @@ python array_rotation.py
 | [0226-invert-binary-tree](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -207,12 +209,14 @@ python array_rotation.py
 | [0226-invert-binary-tree](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -293,4 +297,12 @@ python array_rotation.py
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
