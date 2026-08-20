@@ -64,6 +64,7 @@ python array_rotation.py
 | [0502-ipo](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0502-ipo) |
 | [0704-binary-search](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0994-rotting-oranges) |
@@ -84,6 +85,7 @@ python array_rotation.py
 | [0367-valid-perfect-square](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0704-binary-search) |
+| [0778-swim-in-rising-water](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0875-koko-eating-bananas) |
 | [1552-magnetic-force-between-two-balls](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/1552-magnetic-force-between-two-balls) |
@@ -177,6 +179,7 @@ python array_rotation.py
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0778-swim-in-rising-water) |
 | [3620-network-recovery-pathways](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -190,6 +193,7 @@ python array_rotation.py
 | [0240-search-a-2d-matrix-ii](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Depth-First Search
@@ -201,6 +205,7 @@ python array_rotation.py
 | [0226-invert-binary-tree](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/2685-count-the-number-of-complete-components) |
@@ -215,6 +220,7 @@ python array_rotation.py
 | [0226-invert-binary-tree](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -224,6 +230,7 @@ python array_rotation.py
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0130-surrounded-regions) |
+| [0778-swim-in-rising-water](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/2685-count-the-number-of-complete-components) |
@@ -313,4 +320,12 @@ python array_rotation.py
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0785-is-graph-bipartite) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0778-swim-in-rising-water) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
