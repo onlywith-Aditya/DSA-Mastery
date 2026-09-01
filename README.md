@@ -108,6 +108,7 @@ python array_rotation.py
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0127-word-ladder) |
 | [0347-top-k-frequent-elements](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0347-top-k-frequent-elements) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0767-reorganize-string](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0767-reorganize-string) |
@@ -221,6 +222,7 @@ python array_rotation.py
 | [0101-symmetric-tree](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0127-word-ladder](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0130-surrounded-regions) |
 | [0226-invert-binary-tree](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -256,6 +258,7 @@ python array_rotation.py
 | [0017-letter-combinations-of-a-phone-number](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0127-word-ladder) |
 | [0767-reorganize-string](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0767-reorganize-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
@@ -334,4 +337,8 @@ python array_rotation.py
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0778-swim-in-rising-water) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
