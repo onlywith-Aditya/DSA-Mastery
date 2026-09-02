@@ -57,6 +57,7 @@ python array_rotation.py
 | [0074-search-a-2d-matrix](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0130-surrounded-regions) |
+| [0198-house-robber](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0347-top-k-frequent-elements) |
@@ -159,6 +160,7 @@ python array_rotation.py
 | ------- |
 | [0022-generate-parentheses](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3620-network-recovery-pathways](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3620-network-recovery-pathways) |
