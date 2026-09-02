@@ -99,6 +99,7 @@ python array_rotation.py
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0509-fibonacci-number) |
@@ -157,6 +158,7 @@ python array_rotation.py
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3620-network-recovery-pathways](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3620-network-recovery-pathways) |
@@ -277,6 +279,7 @@ python array_rotation.py
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
