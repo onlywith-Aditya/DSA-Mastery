@@ -62,6 +62,7 @@ python array_rotation.py
 | [0240-search-a-2d-matrix-ii](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0494-target-sum](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0502-ipo) |
 | [0704-binary-search](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0733-flood-fill) |
@@ -161,6 +162,7 @@ python array_rotation.py
 | [0022-generate-parentheses](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0198-house-robber) |
+| [0494-target-sum](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3620-network-recovery-pathways](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/3620-network-recovery-pathways) |
@@ -302,6 +304,7 @@ python array_rotation.py
 | [0017-letter-combinations-of-a-phone-number](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0039-combination-sum) |
+| [0494-target-sum](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0494-target-sum) |
 ## Tree
 |  |
 | ------- |
@@ -346,4 +349,12 @@ python array_rotation.py
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0127-word-ladder) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/onlywith-Aditya/DSA-Mastery/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
